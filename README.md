@@ -1,3 +1,13 @@
+## The given assignment is below my comment here.
+Primarily, I updated all of the divs to reflect the appropriate semantic HTML.
+I added alts to the pictures and titles to most of the items.
+I updated the navigation links to be buttons.
+I changed the "seo" class to be an ID because it's only used once.
+I tried to tighten up and consolidate some of the CSS.
+I fixed the link that did not work.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++f
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
