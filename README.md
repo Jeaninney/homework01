@@ -1,4 +1,4 @@
-## The given assignment is below my comment here.
+## These are my comments on Homework 1, Refactoring
 Primarily, I updated all of the divs to reflect the appropriate semantic HTML.
 I added alts to the pictures and titles to most of the items.
 I updated the navigation links to be buttons.
@@ -6,7 +6,7 @@ I changed the "seo" class to be an ID because it's only used once.
 I tried to tighten up and consolidate some of the CSS.
 I fixed the link that did not work.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++f
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # 01 HTML CSS Git: Code Refactor
 

@@ -25,7 +25,6 @@ body {
     /* Used to change the color of "SEO" in "Horiseon" */
     color: #d9dcd6;
 }
-
 .navigationbutton {
     background-color: #2a607c;
     display: inline-block;
@@ -91,48 +90,16 @@ p {
     color: #ffffff;
 }
 
-/* .benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
-/* .benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 .aside-piece h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
 
 .aside-piece img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* .benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
 
 .search-engine-optimization {
     margin-bottom: 20px;
